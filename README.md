@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @MilesWind
+- 👀 I’m interested in interactive graphical simulations, formulating functions, and machine learning.
+- 🌱 I’m currently learning anything i have time for
+- 💞️ I’m looking to collaborate on anything
+- 📫 How to reach me milo.wind3@gmail.com
