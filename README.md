@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @MilesWind
+- 👋 Hi, I’m Miles Wind
 - 👀 I’m interested in interactive graphical simulations, formulating functions, and machine learning.
-- 🌱 I’m currently learning anything i have time for
-- 💞️ I’m looking to collaborate on anything
+- 🌱 I’m currently learning about generative adversarial networks and recurrent neural networks.
+- 💞️ I’m looking to collaborate on anything interesting.
 - 📫 How to reach me milo.wind3@gmail.com
